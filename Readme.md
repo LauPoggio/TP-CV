@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laura Poggio</h1>
-<h3 align="center">I am a very active person, always looking to learn new skills.</h3>
+<h3>I am a very active person, always looking to learn new skills.</h3>
 
 - 🔭 I’m currently working on **ISC as a CRM Analyst**
 
