@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lau Poggio</h1>
+
 - 🔭 I’m currently working on **ISC as a CRM Analyst**
 
 - 🌱 I’m currently learning **HTML 5 and GIT and Psychology**
