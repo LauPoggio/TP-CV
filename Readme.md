@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **ISC as a CRM Analyst**
 
-- 🌱 I’m currently learning **HTML 5 and GIT and Psychology**
+- 🌱 I’m currently learning **HTML 5,GIT and Psychology**
 
 - 📫 How to reach me  **laura2022@gmail.com**
 
